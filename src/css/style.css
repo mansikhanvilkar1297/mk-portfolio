@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* styles.css */
+:root {
+    --primary-color: #0c0022; /* Your custom primary color */
+    --secondary-color: #76e6ea;
+    --white-color: #74dc87;
+  }
+
+body{
+    background-image: radial-gradient(#EAE5C9    , #6CC6CB  );
+    font-family: "Roboto", serif;
+    color: var(--white-color);
+}
+
